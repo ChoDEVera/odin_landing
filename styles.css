@@ -1,0 +1,46 @@
+body {
+    font-family: roboto, "Courier New", Courier, sans-serif;
+}
+
+.header {
+    background-color: #1F2937;
+    margin: 0;
+    padding: 2rem;
+}
+
+ul {
+    align-items: center;
+    list-style: none;
+    display: flex;
+    gap: 8px;
+}
+
+.nav-link:first-child {
+    margin-right: auto;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.navbar-hero {
+    background-color: #1F2937;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar-hero-left {
+    margin: 0;
+    padding: 1rem;
+
+}
+
+.navbar-hero-left h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+}
