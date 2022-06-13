@@ -127,6 +127,20 @@ img {
     margin-left: 300px;
 }
 
+.call-to-action {
+    margin: 0;
+    padding: auto;
+}
+
+.call-to-action-box {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn-container {
+    display: flex;
+}
+
 .footer {
     background-color: #1F2937;
     font-size: 18px;
